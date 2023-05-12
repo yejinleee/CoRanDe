@@ -47,7 +47,7 @@ CodingRandomDefense
   
 | Week     | 이예진 |   정지연   |  최진실   |
 | :-------: | :---------: | :---------:| :---------: |
-| 1 |  |  |  |
+| 1 |[Week1/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%98%88%EC%A7%84) |  |  |
 | 2 |  |  |  |
 | 3 |  |  |  |
 | 4 |  |  |  |

@@ -5,6 +5,7 @@ T = int(input().rstrip())
 for j in range(T):
   N = int(input().rstrip())
   grade = sorted([list(map(int, input().split())) for i in range(N)])
+  print(grade)
   cnt=1
   interviewWinner=grade[0][1]
   for i in range(1,N):

@@ -18,7 +18,7 @@ CodingRandomDefense
   2. 그리디 알고리즘 관련 문제 10개 풀이 설명 및 토론 
   <br/>( BOJ2138, BOJ17615, BOJ21758, BOJ1080, BOJ1802, BOJ1931, BOJ1911, BOJ1946, BOJ11501, BOJ1541 )
 
-###  Week 2
+###  Week 2 - 0519 ✅
 
   1. 탐색 알고리즘에 대하여 각자 공부해온 것 공유
   2. 탐색 알고리즘 관련 문제 5개 풀이
@@ -27,8 +27,10 @@ CodingRandomDefense
   ( Programmers SQL 고득점 Kit)
 
   
-###  Week 3
-
+###  Week 3 - 0522 
+  1. 싸피 코테 응시 후 회고
+  2. 싸피 코테 유형인 구현 문제 3개 풀이
+  <br/>( BOJ1158, BOJ2503, BOJ3085 )
   
 ###  Week 4
 
@@ -47,9 +49,9 @@ CodingRandomDefense
   
 | Week     | 이예진 |   정지연   |  최진실   |
 | :-------: | :---------: | :---------:| :---------: |
-| 1 |[Week1/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%98%88%EC%A7%84) |  |[Week1/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%84%EC%8B%A4)|
-| 2 |  |  |  |
-| 3 |  |  |  |
+| 1 |[Week1/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%98%88%EC%A7%84) |[Week1/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%80%EC%97%B0)  |[Week1/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%84%EC%8B%A4)|
+| 2 |[Week2/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%98%88%EC%A7%84)|[Week2/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%A7%80%EC%97%B0)  |[Week2/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%A7%84%EC%8B%A4)|
+| 3 |  |[Week3/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%80%EC%97%B0)  |  |
 | 4 |  |  |  |
 | 5 |  |  |  |
 | 6 |  |  |  |

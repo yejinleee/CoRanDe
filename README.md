@@ -32,8 +32,10 @@ CodingRandomDefense
   2. 싸피 코테 유형인 구현 문제 3개 풀이
   <br/>( BOJ1158, BOJ2503, BOJ3085 )
   
-###  Week 4
-
+###  Week 4 -  0526 ✅
+  1. DFS&BFS 알고리즘에 대하여 각자 공부 해온 것 공유
+  2. DFS&BFS 알고리즘 관련 문제 10개 풀 이설명및토론
+  <br/> ( BOJ11724, BOJ1012, BOJ1260, BOJ2599, BOJ16956, BOJ10451, BOJ2644, BOJ2606, BOJ11558, BOJ2331)
   
 ###  Week 5
 
@@ -52,7 +54,7 @@ CodingRandomDefense
 | 1 |[Week1/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%98%88%EC%A7%84) |[Week1/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%80%EC%97%B0)  |[Week1/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%84%EC%8B%A4)|
 | 2 |[Week2/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%98%88%EC%A7%84)|[Week2/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%A7%80%EC%97%B0)  |[Week2/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%A7%84%EC%8B%A4)|
 | 3 |[Week3/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%98%88%EC%A7%84)  |[Week3/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%80%EC%97%B0)  |[Week3/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%84%EC%8B%A4)|
-| 4 |  |[Week4/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%80%EC%97%B0)  |[Week4/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%84%EC%8B%A4)|
+| 4 |[Week4/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%98%88%EC%A7%84)|[Week4/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%80%EC%97%B0)  |[Week4/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%84%EC%8B%A4)|
 | 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |

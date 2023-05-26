@@ -52,7 +52,7 @@ CodingRandomDefense
 | 1 |[Week1/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%98%88%EC%A7%84) |[Week1/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%80%EC%97%B0)  |[Week1/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week1/%EC%A7%84%EC%8B%A4)|
 | 2 |[Week2/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%98%88%EC%A7%84)|[Week2/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%A7%80%EC%97%B0)  |[Week2/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week2/%EC%A7%84%EC%8B%A4)|
 | 3 |[Week3/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%98%88%EC%A7%84)  |[Week3/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%80%EC%97%B0)  |[Week3/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%84%EC%8B%A4)|
-| 4 |  |  |[Week4/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%84%EC%8B%A4)|
+| 4 |  |[Week4/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%80%EC%97%B0)  |[Week4/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%84%EC%8B%A4)|
 | 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |

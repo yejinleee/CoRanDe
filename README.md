@@ -44,7 +44,8 @@ CodingRandomDefense
    ( BOJ1010, BOJ9655, BOJ2839, BOJ17626, BOJ1463, BOJ9095, BOJ11726, BOJ2579)
 
 ### Week 6
-
+1. BOJ 실버 레벨의 문제 6개를 랜덤 선정하여 문제 풀이 후 설명 및 토론
+  <br/> ( BOJ1270, BOJ1972, BOJ15501, BOJ16173, BOJ17952, BOJ19583)
 ### Week 7
 
 ### Week 8
@@ -56,5 +57,6 @@ CodingRandomDefense
 |  3   | [Week3/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%98%88%EC%A7%84) | [Week3/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%80%EC%97%B0) | [Week3/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week3/%EC%A7%84%EC%8B%A4) |
 |  4   | [Week4/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%98%88%EC%A7%84) | [Week4/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%80%EC%97%B0) | [Week4/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week4/%EC%A7%84%EC%8B%A4) |
 |  5   | [Week5/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week5/%EC%98%88%EC%A7%84) | [Week5/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week5/%EC%A7%80%EC%97%B0) | [Week5/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week5/%EC%A7%84%EC%8B%A4) |
-|  6  | [Week6/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%98%88%EC%A7%84) | [Week6/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%A7%80%EC%97%B0) | [Week6/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%A7%84%EC%8B%A4) |7   |                                                                                       |                                                                                       |                                                                                       |
-|  8   |                                                                                       |                                                                                       |                                                                                       |
+|  6  | [Week6/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%98%88%EC%A7%84) | [Week6/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%A7%80%EC%97%B0) | [Week6/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%A7%84%EC%8B%A4) |
+|  7  | | | |
+|8   | | | |

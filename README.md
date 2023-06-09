@@ -44,7 +44,8 @@ CodingRandomDefense
    ( BOJ1010, BOJ9655, BOJ2839, BOJ17626, BOJ1463, BOJ9095, BOJ11726, BOJ2579)
 
 ### Week 6
-
+1. BOJ 실버 레벨의 문제 6개를 랜덤 선정하여 문제 풀이 후 설명 및 토론
+  <br/> ( BOJ1270, BOJ1972, BOJ15501, BOJ16173, BOJ17952, BOJ19583)
 ### Week 7
 
 ### Week 8
@@ -59,3 +60,4 @@ CodingRandomDefense
 |  6  | [Week6/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%98%88%EC%A7%84) | [Week6/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%A7%80%EC%97%B0) | [Week6/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week6/%EC%A7%84%EC%8B%A4) |
 <!-- |  7  | [Week7/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week7/%EC%98%88%EC%A7%84) | [Week7/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week7/%EC%A7%80%EC%97%B0) | [Week7/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week7/%EC%A7%84%EC%8B%A4) |
 |  8  | [Week8/예진](https://github.com/yejinleee/CoRanDe/tree/main/Week8/%EC%98%88%EC%A7%84) | [Week8/지연](https://github.com/yejinleee/CoRanDe/tree/main/Week8/%EC%A7%80%EC%97%B0) | [Week8/진실](https://github.com/yejinleee/CoRanDe/tree/main/Week8/%EC%A7%84%EC%8B%A4) | -->
+
